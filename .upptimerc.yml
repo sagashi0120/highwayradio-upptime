@@ -6,6 +6,8 @@ sites:
     url: https://highwayradio.cloudfree.jp/
   - name: Image
     url: https://img.highwayradio.f5.si/
+    expectedStatusCodes:
+      - 402
   - name: Blog
     url: https://blog.highwayradio.f5.si/
 
