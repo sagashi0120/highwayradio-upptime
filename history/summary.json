@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.highwayradio.f5.si.ico",
     "slug": "image",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "56.69%",
+    "uptimeDay": "56.69%",
+    "uptimeWeek": "56.69%",
+    "uptimeMonth": "56.69%",
+    "uptimeYear": "56.69%",
     "time": 207,
     "timeDay": 207,
     "timeWeek": 207,
     "timeMonth": 207,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-08": 0
+    }
   },
   {
     "name": "Blog",
