@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1235,
-    "timeDay": 1235,
-    "timeWeek": 1235,
-    "timeMonth": 1235,
-    "timeYear": 1235,
+    "time": 1007,
+    "timeDay": 1007,
+    "timeWeek": 1007,
+    "timeMonth": 1007,
+    "timeYear": 1007,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.highwayradio.f5.si.ico",
     "slug": "image",
     "status": "down",
-    "uptime": "0.98%",
-    "uptimeDay": "0.98%",
-    "uptimeWeek": "0.98%",
-    "uptimeMonth": "0.98%",
-    "uptimeYear": "0.98%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "uptime": "0.72%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.72%",
+    "uptimeMonth": "0.72%",
+    "uptimeYear": "0.72%",
+    "time": 253,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2026-11-08": 22
+      "2026-11-08": 32
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1250,
-    "timeDay": 1250,
-    "timeWeek": 1250,
-    "timeMonth": 1250,
-    "timeYear": 1250,
+    "time": 1167,
+    "timeDay": 1167,
+    "timeWeek": 1167,
+    "timeMonth": 1167,
+    "timeYear": 1167,
     "dailyMinutesDown": {}
   }
 ]
